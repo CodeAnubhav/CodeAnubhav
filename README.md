@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Anubhav Singh:
+# Hi 👋🏻, I'm Anubhav Singh
 🔭 I’m currently working on Laravel Project <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me anubhavsingh9582@gmail.com<br>🌱 I’m currently learning React Advance<br>💬 Ask me about Web Development , Laravel<br>⚡ Fun fact I'm a Programmer
 
 
