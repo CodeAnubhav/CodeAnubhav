@@ -1,5 +1,5 @@
 # Hi 👋🏻, I'm Anubhav Singh
-🔭 I’m currently working on Laravel Project <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me anubhavsingh9582@gmail.com<br>🌱 I’m currently learning React Advance<br>💬 Ask me about Web Development , Laravel<br>⚡ Fun fact: I'm a complete coffee enthusiast; my code runs on caffeine! ☕💻 
+🔭 I’m currently working on Laravel Project <br>👯 I’m looking to collaborate on React Projects<br>📫 How to reach me anubhavsingh9582@gmail.com<br>🌱 I’m currently learning Next.js and typescript Advance<br>💬 Ask me about Web Development , Laravel<br>⚡ Fun fact: I'm a complete coffee enthusiast; my code runs on caffeine! ☕💻 
 
 
 ## 🌐 Socials:
